@@ -1,0 +1,5 @@
+agno
+python-dotenv
+google-generativeai
+lancedb
+sqlite3
